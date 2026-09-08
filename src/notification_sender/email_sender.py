@@ -45,6 +45,7 @@ SMTP_CONFIGS = {
     "aliyun.com": {"server": "smtp.aliyun.com", "port": 465, "ssl": True},
     # 139邮箱
     "139.com": {"server": "smtp.139.com", "port": 465, "ssl": True},
+    "thepaper.cn": {"server": "smtp.exmail.qq.com", "port": 465, "ssl": True},
 }
 
 
